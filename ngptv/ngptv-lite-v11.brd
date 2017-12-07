@@ -37,7 +37,7 @@
 <layer number="27" name="tValues" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="28" name="bValues" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="yes"/>
-<layer number="30" name="bStop" color="7" fill="6" visible="no" active="yes"/>
+<layer number="30" name="bStop" color="7" fill="6" visible="yes" active="yes"/>
 <layer number="31" name="tCream" color="7" fill="4" visible="no" active="yes"/>
 <layer number="32" name="bCream" color="7" fill="5" visible="no" active="yes"/>
 <layer number="33" name="tFinish" color="6" fill="3" visible="no" active="yes"/>
@@ -193,7 +193,6 @@
 <hole x="47.575659375" y="10.164903125" drill="4.4958"/>
 <circle x="47.575659375" y="10.164903125" radius="4.60248125" width="0" layer="30"/>
 <rectangle x1="45.5" y1="0" x2="53" y2="3" layer="29"/>
-<rectangle x1="45.5" y1="0" x2="53" y2="3" layer="30"/>
 <circle x="47.575659375" y="10.164903125" radius="4.60248125" width="0" layer="39"/>
 <text x="24.5" y="22" size="0.5" layer="22" rot="MR0">CLK+ CLK- D0+ D0- D1+ D1-</text>
 <text x="1.5" y="2.5" size="2" layer="21">ngptv lite v1.1</text>
